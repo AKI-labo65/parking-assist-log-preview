@@ -1,7 +1,7 @@
 {
   "environment": "preview",
   "sourceRepository": "AKI-labo65/parking-assist-log",
-  "sourceCommit": "0f9ea15b18b81dac1fb3b94020c2b455adbb7748",
-  "sourceBranch": "codex/fix-sugie-parking-frame",
-  "builtAt": "2026-10-23T03:21:42.730Z"
+  "sourceCommit": "21dd85afae0af84e7d79cc0819718a5b477b1e02",
+  "sourceBranch": "codex/update-work-schedule",
+  "builtAt": "2026-10-23T09:48:31.879Z"
 }
